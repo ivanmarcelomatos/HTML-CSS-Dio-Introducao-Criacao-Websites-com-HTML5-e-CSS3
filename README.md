@@ -1,3 +1,6 @@
+O objetivo desse repositório é demonstrar possuir os conheccimentos para edição de elementos de forma a evidenciar a manipulação dos elementos evidenciando objetivo educacional em detrimento do resultado artístico.
+
+
 ## DIO - Digital Innovation One - Excelente escola de cursos online à distância. Recomendo a todos que se inscrevam lá e bons estudos.
 (https://web.dio.me/)
 
