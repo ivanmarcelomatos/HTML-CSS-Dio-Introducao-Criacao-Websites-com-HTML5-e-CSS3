@@ -1,4 +1,4 @@
-O objetivo desse repositório é demonstrar possuir os conheccimentos para edição de elementos de forma a evidenciar a manipulação dos elementos evidenciando objetivo educacional em detrimento do resultado artístico.
+## O objetivo desse repositório é demonstrar possuir os conheccimentos para edição dos elementos de forma a evidenciar a manipulação desses elementos, evidenciando objetivo educacional em detrimento de resultado direcionado a fins artísticos.
 
 
 ## DIO - Digital Innovation One - Excelente escola de cursos online à distância. Recomendo a todos que se inscrevam lá e bons estudos.
