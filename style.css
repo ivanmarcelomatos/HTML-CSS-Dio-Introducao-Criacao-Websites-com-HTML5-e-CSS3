@@ -1,3 +1,8 @@
+body {
+    background-color: grey;
+}
+
+
 #title, #post_title, #subtitle {
     color:blue;
 }
@@ -5,4 +10,12 @@
 #post_title {
     font-size: 16px;
     font-style: italic;
+}
+
+
+.post {
+    background-color: white;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
 }
