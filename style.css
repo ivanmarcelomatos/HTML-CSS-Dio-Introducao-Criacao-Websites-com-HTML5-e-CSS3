@@ -53,3 +53,17 @@ a {
 .post_image {
     margin-bottom: 15px;
 }
+
+
+.contacts_list {
+    /* list-style-type: square; */
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+
+.contacts_list li a {
+    /* text-decoration: underline; */
+    /* color: blue; */
+    text-decoration: none;
+}
